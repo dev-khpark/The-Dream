@@ -1,4 +1,4 @@
-앱이름
-앱주소
-앱사진
+No Ads
+https://itunes.apple.com/app/no-ads-daehanmingug-daepyo/id1067524505
+https://raw.githubusercontent.com/dev-khpark/The-Dream/master/img.png
 https://www.youtube.com/embed/eqp6OToU3rs
