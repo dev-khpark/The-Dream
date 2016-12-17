@@ -1,6 +1,7 @@
 앱이름
 앱주소
 앱사진
+https://www.youtube.com/embed/eqp6OToU3rs
 리딤코드1
 리딤코드2
 리딤코드3
