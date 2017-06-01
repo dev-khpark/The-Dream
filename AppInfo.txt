@@ -1,4 +1,4 @@
-Scroll automatically to bottom
+Demo: Scroll automatically to bottom
 http://devkhpark.tistory.com/222
 https://raw.githubusercontent.com/dev-khpark/The-Dream/master/img.png
 https://www.youtube.com/embed/vlJx9t7NZEI
